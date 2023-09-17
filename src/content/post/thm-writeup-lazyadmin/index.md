@@ -5,7 +5,7 @@ publishDate: "12 December 2022"
 updatedDate: "12 December 2022"
 tags: ["writeup", "linux", "easy", "sweet rice", "privilege escalation"]
 ---
-![](/images/thm-writeup-lazyadmin/lazyadmin.png)
+![](/images/thm-writeup-lazyadmin/lazyadmin.png)Máquina Linux de nivel fácil para practicar tus habilidades.
 
 <!--more-->
 
